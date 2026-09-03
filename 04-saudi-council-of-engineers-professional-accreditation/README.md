@@ -16,4 +16,4 @@ The application documents my professional registration process with the Saudi Co
 
 The original professional accreditation document is included in this repository.
 
-[View Document](./Saudi%20Council%20of%20Engineers%20Professional%20Accreditation.pdf)
+[View Document](./professional-accreditation.pdf)
