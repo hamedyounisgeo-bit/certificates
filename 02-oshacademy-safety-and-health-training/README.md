@@ -52,4 +52,4 @@ Training was delivered through **EHS Academy**, an OSHAcademy Authorized Trainin
 
 The original certificates are included in this repository.
 
-[View Certificates](./Safety & Health.pdf)
+[View Certificates](./Safety%20%26%20Health.pdf)
