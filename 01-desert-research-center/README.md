@@ -35,4 +35,4 @@ It also helped bridge the gap between academic study and practical experience by
 
 The original training certificate is included in this repository.
 
-[View Certificate](./Training Certificate from the Desert Research Center.pdf)
+[View Certificate](./Training%20Certificate%20from%20the%20Desert%20Research%20Center.pdf)
