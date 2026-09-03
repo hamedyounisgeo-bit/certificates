@@ -35,4 +35,4 @@ It also helped bridge the gap between academic study and practical experience by
 
 The original training certificate is included in this repository.
 
-[View Certificate](./certificate.pdf)
+[View Certificate](./شهاده تدريب مركز بحوث الصحراء.pdf)
